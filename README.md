@@ -11,6 +11,6 @@
 3. Used Seaborn heatmaps to visualize regional correlations.  
 
 ## Insights  
-- Brazil maintained #1 position, but Vietnam showed the fastest growth (+X% annually).  
+- Brazil maintained #1 position, but Vietnam showed the fastest growth .  
 - Price volatility was highest in [country] due to [reason].  
 
