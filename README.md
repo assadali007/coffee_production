@@ -8,7 +8,6 @@
 ## Key Steps  
 1. Data cleaning (handled missing values for 50+ countries).  
 2. Created time-series plots to track growth rates.  
-3. Used Seaborn heatmaps to visualize regional correlations.  
 
 ## Insights  
 - Brazil maintained #1 position, but Vietnam showed the fastest growth .  
