@@ -14,4 +14,3 @@
 - Brazil maintained #1 position, but Vietnam showed the fastest growth (+X% annually).  
 - Price volatility was highest in [country] due to [reason].  
 
-[View Notebook](link_to_ipynb)  
